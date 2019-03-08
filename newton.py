@@ -1,6 +1,5 @@
 # newton.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # Newton's method
 # to find roots of equation, created by user inputs
 #
